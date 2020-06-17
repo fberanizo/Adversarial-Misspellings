@@ -202,6 +202,8 @@ def check_against_spell_mistakes(filename):
                 gen_attacks = attacks.key_one_attack(worst_example, ignore_incides, include_ends=params['include_ends'])
             elif 'add' in type_of_attack:
                 gen_attacks = attacks.add_one_attack(worst_example, ignore_incides, include_ends=params['include_ends'])
+            elif 'join' in type_of_attack:
+                gen_attacks = attacks.join_words_attack(worst_example, ignore_incides, include_ends=params['include_ends'])
             elif 'all' in type_of_attack:
                 gen_attacks = attacks.all_one_attack(worst_example, ignore_incides, include_ends=params['include_ends'])
 

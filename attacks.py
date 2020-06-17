@@ -167,10 +167,13 @@ def all_one_attack(line, ignore_indices = set(), include_ends=False,
 	generator = swap_one_attack(line, ignore_indices, include_ends)
 	for idx, adv in generator:
 		yield idx, adv
+	generator = join_words_attack(line, ignore_indices, include_ends)
+	for idx, adv in generator:
+		yield idx, adv
 
 
 def random_all_one_attack(line, ignore_indices=set(), include_ends=False):
-    generators = [add_one_attack, key_one_attack, drop_one_attack, swap_one_attack]
+    generators = [add_one_attack, key_one_attack, drop_one_attack, swap_one_attack, join_words_attack]
     shuffle(generators)
     for generator in generators:
         for idx, adv in generator(line, ignore_indices, include_ends):
@@ -240,3 +243,16 @@ def get_random_attack(line):
                 new_ch = np.random.choice(alphabets, 1)[0]
                 return line[:char_idx] + new_ch + line[char_idx:]
     return None
+
+
+def join_words_attack(line: str, ignore_indices = set(), include_ends=False):
+    """An attack that joins words.
+
+    Args:
+        line (string): the input line/review/comment.
+    """
+    words = line.split()
+
+    for idx, word in enumerate(words):
+        if idx == 0: continue
+        yield idx, ' '.join(words[:idx]) + ' '.join(words[idx:])
