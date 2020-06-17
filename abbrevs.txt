@@ -1,0 +1,796 @@
+// --- Internetês --- //
+
+tc,teclar // Parece-me um pouco ultrapassado.
+kd,cadê
+vc,você
+vcs,vocês
+kdvc,cadê você?
+naum,não
+s,sim
+fds,fim de semana
+ctz,certeza
+pq,por que
+gnt,gente
+tb,também
+to lgd,estou ligado
+d+,demais
+eh,é
+blz,beleza
+axa,acha
+vô,vou
+fazê,fazer
+lah,lá
+flws,falou
+tamo,estamos
+ta,está
+tava,estava
+wpp,WhatsApp
+qe,que
+bjão,beijão
+viag,viagem
+ce,você
+doq,do que
+tmb,também
+dms,demais
+qéq,que é que
+bjs,beijos
+dnv,de novo
+pfvr,por favor
+mds,meu deus
+
+// Arquivo dict-internet-2.txt
+
+abrass,abraço
+amnha,amanhã
+axo,acho
+cversa,conversa
+dexo,deixo
+flo,falou
+lek,moleque
+noss,nossa
+nvo,novo
+otro,outro
+pvo,povo
+qndo,quando
+tp,tipo
+
+// Arquivo IN_dict.txt
+
+boua,boa
+axo,acho
+tah,está
+fika,fica
+xou,show
+mt,muito
+tudibão,tudo de bom
+kem,quem
+taria,estaria
+tô,estou
+bão,bom
+neh,né
+daora,da hora
+xing-ling,Xing Ling
+xingling,Xing Ling
+xing-lings,Xing Lings
+xingue-lingue,Xing Ling
+axei,achei
+kero,quero
+tals,tal
+poko,pouco
+valew,valeu
+tai,está ai
+nunka,nunca
+vç,você
+ae,aí
+soh,só
+jah,já
+tou,estou
+vlw,valeu
+ateh,até
+ksa,casa
+issu,isso
+estah,está
+nunk,nunca
+dah,dá
+fik,fica
+tudu,tudo
+
+// http://en.wiktionary.org/wiki/Appendix:Portuguese_internet_slang
+
+9dade,novidade
+aew,aí
+aki,aqui
+bjo,beijo
+bjoks,beijocas
+bjos,beijos
+cmg,comigo
+ctg,contigo
+como fas,como faz
+comofas,como faz
+d,de
+flw,falou
+hj,hoje
+kbça,cabeça
+kra,cara
+kd,cadê
+ki,que
+n,não
+ñ,não
+neh,né
+ngm,ninguém
+omg,oh my god
+oq,o que
+q,que
+qdo,quando
+qnd,quando
+qq,qualquer
+rs,risos
+soh,só
+sqn,só que não
+t+,até mais
+tbm,também
+td,tudo
+tdb,tudo bom
+v6,vocês
+obgd,obrigado
+bgl,bagulho
+bglh,bagulho
+cr,cara
+
+// http://muitadica.com/traducao-de-palavras-expressoes-e-abreviacoes-do-internetes/
+
+-n,não
+-q,que
+// [],abraço
+[]s,abraços
+[]'s,abraços
++,mais
++,mas
++-,mais ou menos
+abs,abraço
+ae,aí
+ag,agora
+agr,agora
+akele,aquele
+akela,aquela
+akilo,aquilo
+algm,alguém
+amr,amor
+ants,antes
+ass,assinado
+axo,acho
+axar,achar
+babak,babaca
+bjok,beijoca
+bjim,beijinho
+blza,beleza
+bm,bem
+btf,boto fé
+c,você
+c,se
+c,com
+c/,com
+cde,sede
+cmo,como
+cm,como
+crvja,cerveja
+d-,de menos
+dik,dica
+fikdik,fica a dica
+dpois,depois
+dsc,desculpa
+dsd,desde
+enqto,enquanto
+nqto,enquanto
+// et,então // pode ser confundido com extraterreste.
+entaum,então
+// fcd,fique com deus // Também é sigla.
+fik,fica
+fikr,ficar
+fikndo,ficando
+fla,fala
+flw,falou
+fms,firmeza
+fmz,firmeza
+gent,gente
+part,parte
+metad,metade
+art,arte
+mont,monte
+sort,sorte
+merec,merece
+parec,parece
+esqc,esquece
+dec,desce
+penc,pense
+pratikment,praticamente
+pod,pode
+dxar,deixar
+fazr,fazer
+gent,gente
+gst,gosto
+og,hoje
+hrs,horas
+img,imagem
+jah,já
+k,cá
+kba,acaba
+kba,acabar
+kblo,cabelo
+kero,quero
+kerer,querer
+kolé,qual é?
+koleh,qual é?
+colé,qual é?
+coleh,qual é?
+koé,qual é?
+koeh,qual é?
+koe,qual é?
+coé,qual é?
+coeh,qual é?
+koe,qual é?
+krak,caraca
+krk,caraca
+ksa,casa
+// lg,ligo  // Ambíguo com a marca LG.
+// lg,ligar
+lok,louca
+magina,imagina
+migo,amigo
+miga,amiga
+miguxo,amigo
+miguxa,amiga
+mlk,moleque
+mlq,moleque
+mó,maior
+mo,maior // Acho que temos que tomar cuidado com esse.
+msg,mensagem
+msm,mesmo
+mto,muito
+mta,muita
+mt,muito
+mt,muita
+nda,nada
+nd,nada
+// neh,não é
+neh,né
+// ne,não é
+ne,né
+// net,internet
+ningm,ninguém
+ngm,ninguém
+ng,ninguém
+nn,ninguém
+nr,número
+nunk,nunca
+nvd,novidade
+9dad,novidade
+9da10,novidades
+obg,obrigado
+bgd,obrigado
+otro,outro
+otra,outra
+p/,para
+p,para
+// pa,para  // Pode ser confundido com "pá" grafado sem acento.
+// pra,para // Ocorre muito em fala livre, e a pronúncia é qualitativamente distinta
+p6,para vocês
+pra6,para vocês
+pru6,para vocês
+paka,para caramba
+pakas,para caramba
+pera,espera
+peraí,espera aí
+spera,espera
+pblm,problema
+po,poxa
+pow,poxa
+poco,pouco
+poko,pouco
+pq,porque
+pq,por que
+pq,por quê
+pq,porquê
+pk,porque
+pk,por que
+pk,por quê
+pk,porquê
+ki,que
+k,que
+qd,quando
+qdo,quando
+qnd,quando
+qm,quem
+kem,quem
+qq,qualquer
+qlqr,qualquer
+kk,qualquer
+qr,quer
+qro,quero
+qse,quase
+kse,quase
+qtc,quer teclar?  // Parece-me um tanto ultrapassado.
+qtd,quantidade
+qtde,quantidade
+qto,quanto
+qta,quanta
+qtos,quantos
+qts,quantos
+qts,quantas
+s,sim
+s/,sem
+scola,escola
+skola,escola
+screv,escreve
+screv,escrever
+skrev,escreve
+skrev,escrever
+soh,só
+t,te
+tds,todos
+tds,todas
+tm,tem
+tmpo,tempo
+tmp,tempo
+tnho,tenho
+tnh,tenho
+to,estou
+tô,estou
+tow,estou
+tpo,tipo
+v,ver
+v,vê
+vamo,vamos
+vdd,verdade
+vlw,valeu
+vo,vou
+votq,vou ter que
+vzs,vezes
+xato,chato
+xata,chata
+xau,tchau
+
+// http://youpix.virgula.uol.com.br/memepedia/os-acronimos-da-internet-que-voce-tem-que-conhecer-aproveita-e-mostra-pros-seus-pais/
+
+bbq,babaca
+bbk,babaca
+amg,amigo
+amg,amiga
+glr,galera
+pfv,por favor
+sdd,saudade
+sdds,saudades
+
+// http://tecnologia.culturamix.com/tecnologias/girias-da-internet-no-mundo-de-hoje
+
+oj,hoje
+pls,please
+plz,please
+tmbm,também
+qlql,qualquer
+qrdo,querido
+qrda,querida
+
+// http://www.netlingo.com/word/international-online-jargon.php
+
+-,menos
+=,igual
+c/o,como
+tks,thanks
+thx,thanks
+
+// http://linguadedoido.blogspot.com.br/2008/07/dicionrio-de-internets.html
+
+abç,abraço
+adapitador,adaptador
+ae,aí
+aew,aí
+at+,até mais
+agg,agora
+alterassaum,alteração
+akbo,acabou
+akele,aquele
+aki,aqui
+amgo,amigo
+amour,amor
+amul,amo
+anaum,anão
+anju,anjo
+aqê,aqui
+aq,aqui
+arkivu,arquivo
+asho,acho
+ashu,acho
+axa,acha
+axu,acho
+bashando,baixando
+baum,bom
+baxin,baixinho
+beim,bem
+bb,bebê
+bbeu,bebeu
+bgd,obrigado
+bilhetin,bilhetinho
+bikim,biquinho
+bikini,biquine
+bj,beijo
+bora,embora
+boua,boa
+brinquedin,brinquedinho
+btf,boto fé
+c,você
+calmin,calmo
+caxorro,cachorro
+cedaum,cedo
+cel,celular
+cê,você
+cda,cada
+choranu,chorando
+clike,clique
+cmg,comigo
+cntg,contigo
+colok,colocar
+coment's,comentário
+comg,comigo
+complikadu,complicado
+corguin,córrego
+covard,covarde
+culete,colete
+cunhesu,conheço
+conkistô,consquistou
+cnte,conte
+craq,craque
+cruzis,cruzes
+cs,vocês
+ct,certeza
+ctz,certeza
+cumé,como é
+cursin,cursinho
+cv,conversa
+cvard,covarde
+cvs,conversar
+dakeê,daqui
+dakeles,daqueles
+daqle,daquele
+decha,deixa
+dels,deus
+dmais,demais
+demorô,demorou
+d nda,de nada
+deol,deu
+deshar,deixar
+detali,detalhe
+dexha,deixa
+direitin,direitinho
+docih,doce
+dp,depois
+dps,depois
+dpois,depois
+deskbelada,descabelada
+duenti,duente
+dus,dos
+entaum,então
+enqt,enquanto
+ensaiu,ensaio
+enterrey,enterrei
+eol,eu
+explike,explique
+espantey,espantei
+esqêci,esqueci
+eskeçe,esquece
+expliku,explico
+fais,faz
+fan,fã
+falô,falou
+fcd,fica com deus
+find,fim de
+fikr,ficar
+fikei,fiquei
+fikva,ficava
+fl,falo
+flei,falei
+flw,falou
+fmz,firmeza
+fossi,fosse
+ft,foto
+futs,futsal
+fzr,fazer
+4rever,forever
+gatchenha,gatinha
+gateenha,vide gatchenha
+gatinhu,gatinho
+gnt,gente
+grazadels,graças a deus
+hoji,hoje
+hr,hora
+hj,hoje
+idd,idade
+ineskecivel,inesquecível
+infelix,infeliz
+ingto,ingrato
+intaum,então
+inté,até
+intndndu,entendendo
+jah,já
+kbça,cabeça
+kbelo,cabelo
+kd,cadê
+kda,cada
+ke,que
+kero,quero
+ki,que
+kietin,quietinho
+kinta,quinta
+kis,quis
+kiser,quiser
+kvard,covarde
+kra,cara
+kração,coração
+ksa,casa
+lanxi,lanche
+legalz,legal
+lokura,loucura
+logiko,lógico
+longi,longe
+magine,imagine
+majia,magia
+maix,mais
+makina,máquina
+marka,marca
+meldels,meu deus
+meliiores,melhores
+mels,meus
+meo,meu
+mermo,mesmo
+miga,amiga
+migz,amigas
+mlke,muleque
+morenin,moreninho
+moziin,amorzinho
+mskinha,musiquinha
+mulek,moleque
+msm,mesmo
+msg,mensagem
+mto,muito
+n,não
+nads,nada
+naum,não
+nda,nada
+net,internet
+ngm,ninguém
+ng,ninguém
+noês,nós
+noiti,noite
+noix,nós
+novis,novidades
+nunk,nunca
+nuss,nossa
+9vidades,novidades
+obg,obrigado
+obgda,obrigada
+obv,óbvio
+oc,você
+orcut,orkut
+ospital,hospital
+paishão,paixão
+paliaçada,palhaçada
+parecenu,parecendo
+pdc,pode crer
+pdc,pode ser
+pde,pode
+perfoh,perfeito
+podexá,pode deixar
+poka,pouca
+pokin,pouquinho
+pouku,pouco
+pqê,por quê
+pkna,pequena
+pkno,pequeno
+principi,príncipe
+pueira,poeira
+pufavô,por favor
+pulus,pulos
+purke,porque
+pusha,puxar
+qdô,quando
+qê,que
+qlqr,qualquer
+qm,quem
+qnto,quanto
+qq,qualquer
+qrendo,querendo
+qria,queria
+qro,quero
+qse,quase
+quiança,criança
+qzr,quiser
+rapá,rapaz
+s,sim
+santin,santinho
+saite,site
+sddz,saudades
+seol,seu
+shamar,chamar
+shegou,chegou
+shuver,chover
+sinhê,sim
+smp,sempre
+soh,só
+solidariu,solidário
+sonin,soninho
+soutero,solteiro
+stóra,estoura
+stranho,estranho
+t+,até mais
+// tá,está // São duas palavras distintas (Pode vir, tá? != Pode vir, está?)
+tadin,coitadinho
+tah,está
+taum,estão
+tbm,também
+tc,teclar
+td,tudo
+tdb,tudo bom
+tds,todos
+té,até
+teim,tem
+thi,te
+tipow,tipo
+tomey,tomei
+tou,estou
+tp,tipo
+trais,traz
+trankei,tranquei
+trankilidade,tranquilidade
+umiliá,humiliar
+vc,você
+vdd,verdade
+veix,vez
+veiz,vez
+vest,vestibular
+virô,virou
+vlw,valeu
+vg,vírgula
+volc,você
+voley,vôlei
+voltey,voltei
+v6,vocês
+xau,tchau
+xaudade,saudade
+xeid,cheio de
+xegô,chegou
+xênte,gente
+xeru,cheiro
+xover,chover
+xorar,chorar
+
+// http://www.techtudo.com.br/noticias/noticia/2014/02/sqn-lol-entenda-principais-expressoes-usadas-nas-redes-sociais.html
+
+plmdds,pelo amor de deus
+
+// http://www.dicasparacomputador.com/lista-de-acronimos-abreviacoes-usadas-na-internet-e-ti
+
+sk8,skate
+
+// --- Abreviações já presentes no Ortofon --- //
+
+// Abreviações genéricas
+
++/-,mais ou menos /c
+lga,lagoa
+nº,número
+// SA sociedade-anônima /c // conflito com nome "Sá" grafado sem acento e com maiúsculas (ver "sa sá" mais abaixo)
+
+al.,alameda
+art.,artigo
+// cap. capítulo // (Nagle 4/4/01)
+c.p.,caixa postal
+ed.,edição
+e.m.e.f.e.i.,emefei
+e.m.e.i.,emei
+eq.,equação
+ex.,exemplo
+// no. número // Pode haver conflito com o pronome "no" (e.g. "libertaram-no") em final de sentença.
+pag.,página
+pags.,páginas
+pág.,página
+págs.,páginas
+pp.,páginas
+// s.a. sociedade-anônima
+s.a.,ésse á
+vol.,volume
+
+av,avenida /p
+av.,avenida /p
+cp,caixa postal /p
+cp.,caixa postal /p
+depto,departamento /p
+depto.,departamento /p
+// dr doutor /p // Conflito com dr => d-r (ABN)
+dr.,doutor /p
+dra,doutora /p
+dra.,doutora /p
+dr.a,doutora
+drª,doutora /p
+drª.,doutora /p
+dr.ª,doutora
+etc,eticétera /p
+etc.,eticétera /p
+fig,figura /p
+fig.,figura /p
+jr,júnior /p
+jr.,júnior /p
+ltda,limitada /p
+ltda.,limitada /p
+pct,por cento /p
+pct.,por cento /p
+prof,professor /p
+prof.,professor /p
+profa,professora /p
+profa.,professora /p
+prof.a,professora
+profª,professora /p
+profª.,professora /p
+prof.ª,professora
+sr,senhor /p
+sr.,senhor /p
+sra,senhora /p
+sra.,senhora /p
+sr.a,senhora
+srª,senhora /p
+srª.,senhora /p
+sr.ª,senhora
+srta,senhorita /p
+srta.,senhorita /p
+srt.a,senhorita
+srtª,senhorita /p
+srtª.,senhorita /p
+srt.ª,senhorita
+universit,universitário /p
+universit.,universitário /p
+vl,vila /p
+vl.,vila /p
+
+// Unidades de medida
+
+hz,hertz
+khz,quilohertz
+mhz,megahertz
+ghz,gigahertz
+
+// kva quilovolt-ampère
+// mva megavolt-ampère
+// gva gigavolt-ampère
+
+// kva ká-vê-á
+// mva ême-vê-á
+// gva gê-vê-á
+
+// kvah ká-vê-á-agá
+// mvah ême-vê-á-agá
+// gvah gê-vê-á-agá
+
+// kw quilowatt // Se não definido, preproc soletra
+// mw megawatt // Se não definido, preproc soletra
+// gw gigawatt // Se não definido, preproc soletra
+
+// kwh quilowatt-hora // Se não definido, preproc soletra
+// mwh megawatt-hora // Se não definido, preproc soletra
+// gwh gigawatt-hora // Se não definido, preproc soletra
+
+// mbps megabits-por-segundo // Se não definido, preproc soletra
+// kbps quilobits-por-segundo // Se não definido, preproc soletra
+
+
+// Países
+
+cee,Comunidade Econômica Européia
+eua,Estados Unidos
+eeuu,Estados Unidos
+// gb Grã-Bretanha // GB pode ser gigabyte!
+urss,União Soviética
+
+c.e.e.,Comunidade Econômica Européia
+e.u.a.,Estados Unidos
+ee.uu.,Estados Unidos
+g.b.,Grã Bretanha
+u.r.s.s.,União Soviética

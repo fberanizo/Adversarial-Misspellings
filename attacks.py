@@ -1,15 +1,29 @@
+import os
 import string
 from nltk.corpus import stopwords as SW
 from collections import defaultdict
 import random
 from random import shuffle
 import numpy as np
+import re
+from collections import defaultdict
 
 punctuations = string.punctuation +  ' '
 stopwords = set(SW.words("english")) | set(string.punctuation)
 keyboard_mappings = None
 
 MIN_LEN = 5
+
+abbrevs = defaultdict(set)
+curr_dir = os.path.dirname(os.path.abspath(__file__))
+
+with open(os.path.join(curr_dir, 'abbrevs.txt'), 'r') as f:
+    for line in f:
+        # match everything but //
+        match = re.search(r'^([^\/]+),([^\/]+)(\/\/)?', line.strip('\n'))
+        if match:
+            abbrevs[match.group(2).strip().lower()].add(match.group(1).strip().lower())
+
 
 def drop_one_attack_deprecated(line):
     for i in range(1, len(line) - 1):
@@ -170,6 +184,9 @@ def all_one_attack(line, ignore_indices = set(), include_ends=False,
 	generator = join_words_attack(line, ignore_indices, include_ends)
 	for idx, adv in generator:
 		yield idx, adv
+	generator = slang_one_attack(line, ignore_indices, include_ends)
+	for idx, adv in generator:
+		yield idx, adv
 
 
 def random_all_one_attack(line, ignore_indices=set(), include_ends=False):
@@ -256,3 +273,19 @@ def join_words_attack(line: str, ignore_indices = set(), include_ends=False):
     for idx, word in enumerate(words):
         if idx == 0: continue
         yield idx, ' '.join(words[:idx]) + ' '.join(words[idx:])
+
+
+def slang_one_attack(line: str, ignore_indices = set(), include_ends=False):
+    """An attack that replaces a word by a equivalent slang word.
+
+    Args:
+        line (string): the input line/review/comment.
+    """
+    words = line.split()
+
+    for idx, word in enumerate(words):
+        if word.lower() in abbrevs:
+            for abbrev in abbrevs[word]:
+                copy = words[:]
+                copy[idx] = abbrev
+                yield idx, ' '.join(copy)
